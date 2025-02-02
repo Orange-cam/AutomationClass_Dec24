@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <move file="/Users/camdang/Documents/Project_Test/target/Project_Test-apexconf.jar" tofile="/Users/camdang/Documents/Project_Test/target/Project_Test.apc"/>
+</target>
+</project>
