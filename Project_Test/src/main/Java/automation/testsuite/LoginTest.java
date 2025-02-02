@@ -1,7 +1,9 @@
 package automation.testsuite;
+import org.testng.annotations.*;
 
 public class LoginTest {
-    public static void main(String[] args) {
-        // TODO: Auto-generated method stub
+    @Test
+    public void hello () {
+        System.out.println("Hello my mates");
     }
 }
